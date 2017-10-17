@@ -4,4 +4,4 @@ This repository contains answers with explanations of some questions that I ask 
 
 ### Question List
 ---
-[1. Why don computers use base-2 instead of base- 10]()
+[1. Why don computers use base-2 instead of base- 10](https://github.com/ririyad/question_of_interest/blob/master/answers/base10.md)
